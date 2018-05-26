@@ -1,0 +1,21 @@
+body{
+background-image: url("images/nov.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: 1400px 1200px;
+background-image-height: 100%;
+text-align: center;
+font-size: 25px;
+font-family: Roboto ,Raleway ,sans-serif;
+
+}
+
+h1{
+color: brown;
+margin-left: 25px;
+font-family: "Times New Roman", Times, serif;
+z-index: 4;
+}
+#text
+{margin-left : 100px;
+}

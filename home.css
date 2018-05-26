@@ -1,0 +1,95 @@
+body{
+background-image: url("images/homebg.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: 1400px 900px;
+}
+form{
+margin-left: 1200px;
+}
+
+h1{
+color: brown;
+margin-left: 25px;
+font-family: "Times New Roman", Times, serif;
+z-index: 4;
+}
+
+#id1{
+position:relative;
+margin-left: 130px;
+}
+#id2{
+position:relative;
+margin-left: 100px;
+}
+#id3{
+position:relative;
+margin-left: 100px;
+}
+#id4{
+position:relative;
+margin-left: 130px;
+}
+#id5{
+position:relative;
+margin-left: 100px;
+}
+#id6{
+position:relative;
+margin-left: 100px;
+}
+
+#id7{
+position:relative;
+float: left;
+margin-left: 130px;
+}
+#id8{
+position:relative;
+float: left;
+margin-left:105px;
+}
+#id9{
+position:relative;
+float: left;
+margin-left: 105px;
+}
+#id10{
+position:relative;
+float: left;
+margin-left: 130px;
+}
+#id11{
+position:relative;
+float: left;
+margin-left:105px;
+}
+#id12{
+float: left;
+position:relative;
+margin-left: 105px;
+}
+
+legend{
+	
+	margin-left: 70px;
+	width: 1110px;
+	height: 750px;
+	background-color: white;
+	padding: 1px;
+	border: 1px; 
+	border-radius: 3%;
+	z-index: -1;
+	opacity:0.85;
+	filter: alpha(opacity=85);
+}
+
+legend form{
+z-index:5;
+margin-left: 30px;
+}
+
+th{
+padding: 5px;
+}
